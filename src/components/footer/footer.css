@@ -1,0 +1,10 @@
+.footer{
+    background-color: rgb(242, 237, 237);
+}
+
+
+.subscribe-btn{
+    width: 100%;
+    text-align: end;
+    border-radius: 20px;
+}

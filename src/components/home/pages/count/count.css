@@ -1,0 +1,25 @@
+.Rowcolor{
+    height: 200px;
+    background-color: gainsboro;
+    
+}
+.Count{
+    color: green;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 3rem;
+font-weight: bold;
+}
+
+.Events{
+    text-align: center;
+    margin-top: -20px;
+}
+
+@media only screen and (max-width: 600px) {
+
+.Rowcolor{
+    height: 300px;
+ 
+}
+}

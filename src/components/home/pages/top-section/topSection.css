@@ -1,0 +1,19 @@
+.Home-img-div{
+    background-image: url(girl.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%,100vh;
+    background-attachment: fixed;
+    width: 100%;
+    height:500px;
+}  
+.Heading{
+    color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+@media only screen and (max-width: 600px) {
+
+.Heading{
+    margin-top: -5px;
+ }
+}

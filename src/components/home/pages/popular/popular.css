@@ -1,0 +1,72 @@
+ .courserow {
+    height: 900px;
+ }
+
+
+.coursehead {
+    padding-top: 30px;
+
+}
+
+.icon25 {
+    font-size: 1.5rem;
+    color: gray;
+    margin-left: 19%;
+}
+
+
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.pcourse {
+    font-size: 3rem;
+    padding-top: -100;
+}
+
+.cardimg {
+    height: 250px;
+}
+
+.body {
+    margin-top: 320px;
+}
+
+/* .sj{
+   margin-top: -290px;
+} */
+
+.pcount {
+    margin-left: 85%;
+    margin-top: -330px;
+}
+
+.btn-web {
+    margin-top: -600px;
+}
+
+.title-website {
+    margin-top: -270px;
+    margin-left: 20px;
+}
+
+.card-text-some {
+    margin-left: 20px;
+}
+
+.roundimg {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+
+@media only screen and (max-width:600px){
+    .courserow {
+        height: 100%;
+     }
+
+}
